@@ -1,0 +1,55 @@
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\bin\Debug\PhoneBook.exe.config
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\obj\Debug\PTCS.csprojResolveAssemblyReference.cache
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\obj\Debug\PTCS.AboutBox.resources
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\obj\Debug\PTCS.ContactEntryForm.resources
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\obj\Debug\PTCS.MainForm.resources
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\obj\Debug\PTCS.ReportForm.resources
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\obj\Debug\PTCS.SplashScreen.resources
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\obj\Debug\PTCS.csproj.GenerateResource.Cache
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\obj\Debug\RdlCompile.cache
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\obj\Debug\RdlCompile.compiled
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\bin\Debug\PhoneBook.exe
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\bin\Debug\PhoneBook.pdb
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\bin\Debug\Dapper.dll
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\bin\Debug\Dapper.xml
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\obj\Debug\PhoneBook.exe
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS\PTCS\obj\Debug\PhoneBook.pdb
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\bin\Debug\PhoneBook.exe.config
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\bin\Debug\PhoneBook.exe
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\bin\Debug\PhoneBook.pdb
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\bin\Debug\Dapper.dll
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\bin\Debug\Dapper.xml
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\obj\Debug\PTCS.csprojResolveAssemblyReference.cache
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\obj\Debug\PTCS.AboutBox.resources
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\obj\Debug\PTCS.ContactEntryForm.resources
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\obj\Debug\PTCS.MainForm.resources
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\obj\Debug\PTCS.ReportForm.resources
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\obj\Debug\PTCS.SplashScreen.resources
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\obj\Debug\PTCS.csproj.GenerateResource.Cache
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\obj\Debug\RdlCompile.cache
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\obj\Debug\RdlCompile.compiled
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\obj\Debug\PhoneBook.exe
+C:\Users\Mohsin\Documents\Visual Studio 2013\Projects\PTCS - Copy\PTCS\obj\Debug\PhoneBook.pdb
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\obj\Debug\PTCS.csprojAssemblyReference.cache
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\obj\Debug\PTCS.AboutBox.resources
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\obj\Debug\PTCS.ContactEntryForm.resources
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\obj\Debug\PTCS.MainForm.resources
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\obj\Debug\PTCS.ReportForm.resources
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\obj\Debug\PTCS.SplashScreen.resources
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\obj\Debug\PTCS.csproj.GenerateResource.cache
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\obj\Debug\PTCS.csproj.CoreCompileInputs.cache
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\obj\Debug\PhoneBook.exe
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\obj\Debug\PhoneBook.pdb
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\bin\Debug\PhoneBook.exe.config
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\bin\Debug\PhoneBook.exe
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\bin\Debug\PhoneBook.pdb
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\bin\Debug\Dapper.dll
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\bin\Debug\Dapper.xml
+C:\Users\world\Downloads\DamiyahRobinson\PTCS\obj\Debug\PTCS.csproj.CopyComplete
